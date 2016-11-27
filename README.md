@@ -2,7 +2,34 @@
 
 A fork of the outdated Ready Class Selector Plugin for Gravity Forms on WordPress.
 
-(Original Plugin: [https://wordpress.org/plugins/gravity-forms-css-ready-selector/](https://wordpress.org/plugins/gravity-forms-css-ready-selector/))
+*Original Plugin: [https://wordpress.org/plugins/gravity-forms-css-ready-selector/](https://wordpress.org/plugins/gravity-forms-css-ready-selector/)*
+
+"Ready Classes" were introduced in Gravity Forms 1.5. Using these new classes, you can easily create more advanced alternative layouts for the fields in your forms. Excellent idea, however, the problem is you always need to remember what the exact class name is. Now with the CSS Ready class selector, you don't need to remember. Simply click on a button to lauch the popup and choose the class you want to add from the list.
+
+-
+
+# Features
+
+* Convenient button added under the advanced tab next to the "CSS Class Name" field
+* Clean and simple popup that lists all the "Ready Classes"
+* Add more than one "Ready Class"
+* Double click a "Ready Class" to add it and auto-close the popup
+
+# Requirements
+
+* WordPress 3.6
+* Gravity Forms 1.5
+
+# Tested With
+
+* WordPress 4.6.1
+* Gravity Forms 2.1.1
+* PHP 5.6.28
+* MySQL 5.5.50
+
+-
+
+# Changelog
 
 #### Version 2.1:
 * Forked by Mike Kormendy
@@ -15,4 +42,12 @@ A fork of the outdated Ready Class Selector Plugin for Gravity Forms on WordPres
 * Ported to GitHub Repo by Bryan Willis ([https://github.com/bryanwillis/gravityforms-ready-class-selector-revised](https://github.com/bryanwillis/gravityforms-ready-class-selector-revised))
 * Fixes errors created by the plugin.
 * Removes a lot of unneeded code.
+
+#### Version 1.1:
+* Fixed bug where classes were not being updated.
+
+#### Version 1.0:
+* Initial Release. First version.
+
+
 
