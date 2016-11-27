@@ -6,8 +6,6 @@ A fork of the outdated Ready Class Selector Plugin for Gravity Forms on WordPres
 
 "Ready Classes" were introduced in Gravity Forms 1.5. Using these new classes, you can easily create more advanced alternative layouts for the fields in your forms. Excellent idea, however, the problem is you always need to remember what the exact class name is. Now with the CSS Ready class selector, you don't need to remember. Simply click on a button to lauch the popup and choose the class you want to add from the list.
 
--
-
 # Features
 
 * Convenient button added under the advanced tab next to the "CSS Class Name" field
@@ -26,8 +24,6 @@ A fork of the outdated Ready Class Selector Plugin for Gravity Forms on WordPres
 * Gravity Forms 2.1.1
 * PHP 5.6.28
 * MySQL 5.5.50
-
--
 
 # Changelog
 
