@@ -13,6 +13,12 @@ A fork of the outdated Ready Class Selector Plugin for Gravity Forms on WordPres
 * Add more than one "Ready Class"
 * Double click a "Ready Class" to add it and auto-close the popup
 
+# Screenshots
+
+![Button for displaying a list of ready class selectors](https://raw.githubusercontent.com/mkormendy/gravity-forms-ready-class-selector/master/screenshot-1.png)
+
+![Modal of ready class selector buttons to choose from](https://raw.githubusercontent.com/mkormendy/gravity-forms-ready-class-selector/master/screenshot-2.png)
+
 # Requirements
 
 * WordPress 3.6
